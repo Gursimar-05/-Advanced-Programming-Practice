@@ -10,7 +10,7 @@ class student{
         System.out.println("year of study :"+year);
         System.out.println("department "+dep);
     }
-    public class main{
+    public class StudentRecord{
         public static void main (String []args){
            student s = new student();
            s.name=sahil;

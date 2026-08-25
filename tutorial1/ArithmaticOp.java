@@ -26,7 +26,7 @@ class supermarket{
           System.out.println("remainder :"+rem);
         }
     }
-    public class main{
+    public class ArithmaticOp{
         public static void main(String[]args){
             int p1,p2;
              System.out.println("enter two prices:");

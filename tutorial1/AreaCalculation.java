@@ -7,7 +7,7 @@ class playground{
          System.out.println("area:"+area);
     }
 }
-    public class ques3{
+    public class AreaCalculation{
         public static void main(String[]args){
             int len,bred;
              System.out.println("enter length and breadth of playground : ");
